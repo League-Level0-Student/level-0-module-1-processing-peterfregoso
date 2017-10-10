@@ -6,7 +6,7 @@ image(face, 0, 0);
   
 }
 void draw(){
-  fill(#FFFFFF);
+  fill(#Ffffff);
    ellipse(378, 371, 100, 100 );
    ellipse(487,358,100,100);
    fill(#080808);
